@@ -1,14 +1,14 @@
 .btn-main, .btn-main-s {
     padding: 0.25rem 1.5rem;
     border-radius: 0.25rem;
-    background-color: #0075ff;
+    background-color: #0270ee;
     color: white;
     border: solid 1px #0075ff;
   }
   .btn-main:hover, .btn-main-s:hover {
     background-color: white;
     color: #0075ff;
-    border: solid 1px #0075ff;
+    border: solid 1px #0077ffdc;
   }
   .btn-main-s {
     font-size: 0.75rem;
